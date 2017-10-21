@@ -1,3 +1,4 @@
 def main():
-	print("Hello")
+	while True:
+		print("Hello")
 main()

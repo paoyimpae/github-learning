@@ -3,6 +3,5 @@ def main(times):
 	fot _ in range(times):
 		print("Hello Yo")
 	print("This is new thing to add.")
-	while True:
-		break
+	print("something")
 main(int(input()))
